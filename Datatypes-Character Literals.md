@@ -15,6 +15,7 @@ print('a')
 
 ## Output
 T
+
 a
 
 ## Result
